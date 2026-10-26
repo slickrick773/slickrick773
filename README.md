@@ -1,11 +1,11 @@
 ### slickrick773 🏴‍☠️
 
-I make stubborn hardware behave — and write down how, so the next person doesn't have to guess.
+**Offensive security researcher — embedded, wireless, RF.**
 
-Currently deep in the **Waveshare ESP32-C5**:
-- [**ESP32-C5-BSP**](https://github.com/slickrick773/ESP32-C5-BSP) — a standalone, reproducible
-  board-support package and hardware reference: what works, the traps that don't, and why.
+I break and rebuild the hardware people trust — finding what the datasheets
+hide, bending locked-down silicon to new purposes, and proving every claim on
+real metal.
 
-[Discord](https://discord.com/users/257432464815947776) ·
-[Instagram](https://www.instagram.com/slickrick773_/) ·
-[YouTube](https://www.youtube.com/@SlickyRicky773)
+`Wi-Fi` · `BLE` · `sub-GHz` · `RF` · `GPS` · `hardware RE`
+
+[Discord](https://discord.com/users/257432464815947776) · [Instagram](https://www.instagram.com/slickrick773_/) · [YouTube](https://www.youtube.com/@SlickyRicky773)
