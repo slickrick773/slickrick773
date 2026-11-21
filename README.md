@@ -1,10 +1,9 @@
 ### slickrick773 🏴‍☠️
 
-**Offensive security researcher — embedded, wireless, RF.**
+**Security researcher — embedded, wireless, RF.**
 
-I break and rebuild the hardware people trust — finding what the datasheets
-hide, bending locked-down silicon to new purposes, and proving every claim on
-real metal.
+I bring firmware up on new boards, dig out what the datasheets leave out,
+and prove every claim on real hardware.
 
 `Wi-Fi` · `BLE` · `sub-GHz` · `RF` · `GPS` · `hardware RE`
 
@@ -16,13 +15,13 @@ real metal.
 
 Install from the PlatformIO registry as `slickrick773/ESP32-C5-BSP`.
 
-### One board, ten firmwares
+### One board, twelve firmwares
 
 I brought the Waveshare ESP32-C5-Touch-LCD-3.5 up on each of these and carry the fixes upstream.
 
 | Firmware | Landed | In review |
 |---|---|---|
-| [Marauder](https://github.com/justcallmekoko/ESP32Marauder) | board support, in `develop`; clean boot [#1691](https://github.com/justcallmekoko/ESP32Marauder/pull/1691) | wardrive BLE bridge [#1671](https://github.com/justcallmekoko/ESP32Marauder/pull/1671), USB serial [#1669](https://github.com/justcallmekoko/ESP32Marauder/pull/1669) |
+| [Marauder](https://github.com/justcallmekoko/ESP32Marauder) | board support, in `develop`; clean boot [#1691](https://github.com/justcallmekoko/ESP32Marauder/pull/1691) | wardrive BLE bridge [#1671](https://github.com/justcallmekoko/ESP32Marauder/pull/1671), USB serial [#1669](https://github.com/justcallmekoko/ESP32Marauder/pull/1669), CLI scan messages [#1661](https://github.com/justcallmekoko/ESP32Marauder/pull/1661) |
 | [Bruce](https://github.com/BruceDevices/firmware) | board port [#2995](https://github.com/BruceDevices/firmware/pull/2995), audio fix [#2994](https://github.com/BruceDevices/firmware/pull/2994), clean boot [#3067](https://github.com/BruceDevices/firmware/pull/3067), header docs [#2998](https://github.com/BruceDevices/firmware/pull/2998) | |
 | [Launcher](https://github.com/bmorcelli/Launcher) | board port [#458](https://github.com/bmorcelli/Launcher/pull/458) | |
 | [GhostESP](https://github.com/GhostESP-Revival/GhostESP) | board support [#433](https://github.com/GhostESP-Revival/GhostESP/pull/433) | |
@@ -32,5 +31,7 @@ I brought the Waveshare ESP32-C5-Touch-LCD-3.5 up on each of these and carry the
 | [SquachWatch](https://github.com/skizzophrenic/SquachWatch-CYD) | | board support [#83](https://github.com/skizzophrenic/SquachWatch-CYD/pull/83) |
 | [AWOKxDAG](https://github.com/dagnazty/awokxdag) | | board profile [#11](https://github.com/dagnazty/awokxdag/pull/11) |
 | [Piglet](https://github.com/Hamspiced/piglet) | | board port and mesh node [#20](https://github.com/Hamspiced/piglet/pull/20) |
+| [WardriveESP](https://github.com/RocketGod-git/wardriveesp-community) | | board port [#2](https://github.com/RocketGod-git/wardriveesp-community/pull/2) |
+| [ChimeraBLE](https://github.com/MatthewKuKanich/ChimeraBLE) | | board target with touch UI [#2](https://github.com/MatthewKuKanich/ChimeraBLE/pull/2) |
 
 [All pull requests](https://github.com/pulls?q=is%3Apr+author%3Aslickrick773)
